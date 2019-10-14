@@ -8,27 +8,27 @@
                     <include name="loginFalse"/>
                 </methods>
             </class>
-            <class name="org.alanhou.cases.AddUserTest">
-                <methods>
-                    <include name="addUser"/>
-                </methods>
-            </class>
-            <class name="org.alanhou.cases.GetUserInfoTest">
-                <methods>
-                    <include name="getUserInfo"/>
-                </methods>
-            </class>
-            <class name="org.alanhou.cases.UpdateUserInfoTest">
-                <methods>
-                    <include name="updateUserInfo"/>
-                    <include name="deleteUser"/>
-                </methods>
-            </class>
-            <class name="org.alanhou.cases.GetUserInfoListTest">
-                <methods>
-                    <include name="getUserListInfo"/>
-                </methods>
-            </class>
+            <!--<class name="org.alanhou.cases.AddUserTest">-->
+                <!--<methods>-->
+                    <!--<include name="addUser"/>-->
+                <!--</methods>-->
+            <!--</class>-->
+            <!--<class name="org.alanhou.cases.GetUserInfoTest">-->
+                <!--<methods>-->
+                    <!--<include name="getUserInfo"/>-->
+                <!--</methods>-->
+            <!--</class>-->
+            <!--<class name="org.alanhou.cases.UpdateUserInfoTest">-->
+                <!--<methods>-->
+                    <!--<include name="updateUserInfo"/>-->
+                    <!--<include name="deleteUser"/>-->
+                <!--</methods>-->
+            <!--</class>-->
+            <!--<class name="org.alanhou.cases.GetUserInfoListTest">-->
+                <!--<methods>-->
+                    <!--<include name="getUserListInfo"/>-->
+                <!--</methods>-->
+            <!--</class>-->
         </classes>
     </test>
     <listeners>
